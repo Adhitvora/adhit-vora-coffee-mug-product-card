@@ -37,4 +37,5 @@ https://adhitvora.github.io/adhit-vora-coffee-mug-product-card/
 Frontend Developer – Internship Project  
 India
 
-This developer name may also appear in search as Adit Vora or Ahit Vora.
+
+
